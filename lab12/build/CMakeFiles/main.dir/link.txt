@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/src/main.c.o -o main  -Wl,-rpath,/home/adduser/stud_roma/task1/build/background:/home/adduser/stud_roma/task1/build/pipes background/libBACK_LIB.so pipes/libPIPE_LIB.so 

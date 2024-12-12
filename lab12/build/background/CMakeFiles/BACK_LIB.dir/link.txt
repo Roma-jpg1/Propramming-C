@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libBACK_LIB.so -o libBACK_LIB.so CMakeFiles/BACK_LIB.dir/background.c.o 
