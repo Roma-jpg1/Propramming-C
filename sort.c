@@ -22,3 +22,5 @@ void Insertsort(int n, int a[], int *Cf, int *Mf) {
 
 
 //проверка3
+
+//check4
