@@ -1,3 +1,4 @@
+#include<stdio.h>
 void Insertsort(int n, int a[], int *Cf, int *Mf) {
     for (int i = 1; i < n; i++) {
         int t = a[i];
@@ -24,3 +25,8 @@ void Insertsort(int n, int a[], int *Cf, int *Mf) {
 //проверка3
 
 //check4
+
+int main(){
+    int a[]={4,2};
+    Insertsort(2,a,NULL,NULL);
+}
