@@ -29,4 +29,5 @@ void Insertsort(int n, int a[], int *Cf, int *Mf) {
 int main(){
     int a[]={4,2};
     Insertsort(2,a,NULL,NULL);
+    print("hello git/n");
 }
